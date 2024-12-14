@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@nbittich/rdfa-wasm": "^0.2.2"
+    "@nbittich/rdfa-wasm": "^0.3.0"
   }
 }
